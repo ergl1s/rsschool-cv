@@ -5,10 +5,10 @@
 ## Name & Contacts
 My name is ***Alexander Bibikov*** and you can find me here:
 
-* Email bibivov2000@mail.ru
-* VK vk.com/ergl1s
-* Telegram [@ergl1s](t.me/ergl1s)
-* GitHub github.com/ergl1s
+* Email **bibikov2000@mail.ru**
+* VK [vk.com/ergl1s](https://vk.com/ergl1s)
+* Telegram [@ergl1s](https://t.me/ergl1s)
+* GitHub [github.com/ergl1s](https://github.com/ergl1s)
 
 ## Summary
 
@@ -23,7 +23,7 @@ I want to try myself in Frontend Development. I really like the JavaScript and p
 * Python basics
 
 ## Code examples 
-You can find my code examples on my [GitHub Account](github.com/ergl1s). 
+You can find my code examples on my [GitHub Account](https://github.com/ergl1s). 
 
 ## Experience
 * C++ coding at school. 
