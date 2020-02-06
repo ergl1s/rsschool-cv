@@ -1,0 +1,20 @@
+body {
+  font-family: "Lucida Sans Unicode", "Lucida Grande","Arial Black","Arial Bold", sans-serif;
+}
+main {
+  position: relative;
+  max-width: 1024px;
+  margin: auto;
+}
+
+.icon {
+  position: absolute;
+  top: 155px;
+  left: 270px;
+  border-radius: 45px;
+}
+
+li:not(:last-child) {
+  padding-bottom: 10px;
+}
+
